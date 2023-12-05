@@ -1,15 +1,16 @@
 .texto{text-align: center;
     font-size: 20px;
-    color:rgb(59, 159, 226, 0.705);
-#titulo{text-align:center;
-    font-size:30px;
-    color: rgba(59, 159, 226, 0.705);
+    color:black
+}
+#titulo{text-align: center;
+    font-size: 30px;
+    color: rgb(0, 153, 255);
 }
 .texto{
-    background-image:linear-Gradient(to top,rgba(12, 8, 11, 0),rgba(59, 159, 226, 0.705););
-    color:rgb(59, 159, 226, 0.705);
+    background-image:linear-Gradient(to top,rgba(12, 8, 11, 0),rgba(0, 89, 255, 0.767));
+    color:black;
 }
 .titulo{
-    background-color: linear-gradient(#000000, #000000);
-    color: rgb(59, 159, 226, 0.705);
+    background-color: linear-gradient(#577cc2, #4e56a5);
+    color: white;
 }
