@@ -11,6 +11,6 @@
     color:rgb(0, 0, 0), 0, 0);
 }
 .titulo{
-    background-color: linear-gradient(#eeaad4, #ff63ac);
-    color: white;
+    background-color: linear-gradient(#000000, #000000);
+    color: rgb(0, 0, 0);
 }
