@@ -1,16 +1,15 @@
 .texto{text-align: center;
     font-size: 20px;
-    color:rgb(0, 0, 0)
-}
+    color:rgb(59, 159, 226, 0.705);
 #titulo{text-align:center;
     font-size:30px;
-    color: rgba(92, 95, 97, 0.705);
+    color: rgba(59, 159, 226, 0.705);
 }
 .texto{
-    background-image:linear-Gradient(to top,rgba(12, 8, 11, 0),rgba(43, 37, 40, 0.767));
-    color:rgb(0, 0, 0), 0, 0);
+    background-image:linear-Gradient(to top,rgba(12, 8, 11, 0),rgba(59, 159, 226, 0.705););
+    color:rgb(59, 159, 226, 0.705);
 }
 .titulo{
     background-color: linear-gradient(#000000, #000000);
-    color: rgb(0, 0, 0);
+    color: rgb(59, 159, 226, 0.705);
 }
