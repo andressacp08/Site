@@ -4,13 +4,13 @@
 }
 #titulo{text-align: center;
     font-size: 30px;
-    color: rgb(0, 153, 255);
+    color: rgb(42, 44, 46);
 }
 .texto{
-    background-image:linear-Gradient(to top,rgba(12, 8, 11, 0),rgba(0, 89, 255, 0.767));
+    background-image:linear-Gradient(to top,rgba(12, 8, 11, 0),rgba(79, 89, 109, 0.767));
     color:black;
 }
 .titulo{
-    background-color: linear-gradient(#577cc2, #4e56a5);
+    background-color: linear-gradient(#555c69, #535563);
     color: white;
 }
